@@ -1,2 +1,4 @@
-This is a new line.
+This is a (I want to edite this line, I am user1. )new line.
 This is the second line.
+
+I add this line, I am user1.
